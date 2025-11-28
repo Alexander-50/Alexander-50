@@ -14,7 +14,7 @@ I break systems to understand them — and automate the parts humans shouldn’t
 
 ---
 
-# 🕶️ **whoami (live typing)**
+# 🕶️ **whoami**
 ![whoami](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2200&pause=1100&color=39FF14&center=false&vCenter=true&width=650&lines=Penetration+Tester+%7C+Offensive+Security+Ops;Curiosity-Driven+Researcher+%26+Breaker;Security+Toolsmith+%28Automation+%2B+Engineering%29;Active+Learner+Evolving+Every+Single+Day)
 
 ---
