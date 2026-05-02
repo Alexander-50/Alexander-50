@@ -1,84 +1,118 @@
-# 👋 Hey, I'm **Alexander P.B.**
+# 👋 Alexander P.B.
+**Penetration Tester | Cybersecurity Analyst | Detection Engineer | Security Automation Specialist**
 
-![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=00FFF2&center=true&vCenter=true&width=600&lines=Offensive+Security+Practitioner;Detection+Engineer+%7C+IDS+R%26D;Python+Security+Automation;Break+%E2%86%92+Analyze+%E2%86%92+Automate)
-
----
-
-# ⚡ **Operator Profile : AX-50**
 ```
-alexander@github:~$ cat /etc/operator_profile
-```
-![op-profile](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2200&pause=900&color=00FFF2&center=false&vCenter=true&width=650&lines=USER:+Alexander+P.B;ROLE:+Offensive+Security+%E2%80%A2+Detection+Engineering;MODE:+ACTIVE;SIGNATURE:+PACKETS+%3E+LOGS+%E2%80%A2+AUTOMATION+%3E+REPETITION)
-
-I break systems to understand them — and automate the parts humans shouldn’t repeat. to understand them — and automate the parts humans shouldn’t repeat.
-
----
-
-# 🕶️ **whoami**
-![whoami](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2200&pause=1100&color=39FF14&center=false&vCenter=true&width=650&lines=Penetration+Tester+%7C+Offensive+Security+Ops;Curiosity-Driven+Researcher+%26+Breaker;Security+Toolsmith+%28Automation+%2B+Engineering%29;Active+Learner+Evolving+Every+Single+Day)
-
----
-
-# ⚡ **Domain Focus**
-```
-• Web & Network Pentesting
-• Recon Automation & Attack Surface Mapping
-• ML-based Intrusion Detection (IoT / Network)
-• Cloud Security (AWS) & Infrastructure Hardening
-• Python Tooling for Security Engineering
+Penetration Tester → Detection Systems → Automated Defense
+Break → Analyze → Automate
 ```
 
 ---
 
-<!-- R&D Stream removed as requested -->
+## 🎯 About Me
+
+I'm a security-focused engineer who analyzes systems from both attacker and defender perspectives, then builds automation and tooling to improve resilience, visibility, and efficiency. My work spans offensive security, detection engineering, security automation, and system-level analysis, with a focus on turning real-world behavior into practical security solutions.
+
+**Specialties:**
+- 🔍 Offensive Security & Penetration Testing
+- 🛡️ Hybrid IDS/Detection Engineering (Signature + Anomaly-Based)
+- 🤖 ML-Driven Security Detection & IoT Anomaly Detection
+- ⚙️ Python Security Automation & Toolsmith
+- ☁️ Cloud Security (AWS) & Infrastructure Hardening
 
 ---
 
-# 🜃 **Ops & Project Arsenal**
+## 🚀 Core Competencies
 
-### 🔍 **IoT Anomaly-Based IDS (CICIoT23 — ML)**
-- Automated end-to-end ML IDS pipeline
-- 99.76% accuracy on IoT attack dataset
-- Preprocessing → Training → Evaluation → Reporting
+### Offensive Security
+- Web & Network Penetration Testing
+- Attack Surface Reconnaissance & Automation
+- Vulnerability Assessment & Exploitation
+- Cloud Security Testing (AWS)
 
-### 🛡️ **Signature-Based IDS (Suricata + Docker)**
-- Lightweight Suricata IDS cluster
-- Custom signatures for controlled attacks
-- Traffic replay + alert validation environment
+### Detection & Defense
+- Hybrid Intrusion Detection Systems (SIDS + AIDS)
+- Real-Time Traffic Monitoring & Analysis
+- Log Correlation & Anomaly Detection
+- IoT Security & Edge Deployment
 
-### 📊 **INSIGHTLOG — Log Analysis Framework**
-- Multi-format parser
-- Rule-based detections + burst analysis
-- Flask dashboard (correlation, timelines, alerts)
+### Security Engineering
+- Python-Based Security Automation
+- Custom Detection Rule Development
+- Infrastructure Hardening (CIS-Aligned)
+- SIEM Integration & Log Analysis
+
+---
+
+## 💼 Project Showcase
+
+### 🔍 **Hybrid Intrusion Detection System (Gateway-Level IDS)**
+Advanced detection framework combining signature-based and anomaly-based approaches
+- **Tech Stack:** Suricata, Python, ML Anomaly Detection
+- **Key Features:**
+  - Dual-layer detection: signature-based (Suricata) + ML-based anomaly detection
+  - Real-time traffic monitoring, alerting, and log correlation
+  - Optimized for IoT environments with low overhead and edge deployment
+  - Validated against real-world attack scenarios (Nmap, SQLi, DoS, custom payloads)
+- **Impact:** Enables both known threat detection and zero-day attack recognition
+
+### 🤖 **IoT Anomaly-Based IDS (CICIoT23 Dataset)**
+Machine learning-driven intrusion detection for IoT environments
+- **Tech Stack:** Python, Scikit-Learn, Pandas, NumPy
+- **Achievements:**
+  - Built end-to-end ML pipeline (data preprocessing → model training → evaluation)
+  - Dataset-driven detection for IoT-specific attack scenarios
+  - Optimized feature handling and model performance
+  - Focus on low-resource IoT device compatibility
+
+### 📊 **INSIGHTLOG - Advanced Log Analysis Framework**
+Multi-format log parser with pattern recognition and correlation
+- **Tech Stack:** Python, Flask, Regex-Based Detection
+- **Features:**
+  - Parse and normalize logs from multiple sources
+  - Rule-based detection engine with burst/anomaly pattern identification
+  - Interactive Flask dashboard for correlation, timelines, and alerts
+  - Structured reporting for compliance and forensics
 
 ### ⚙️ **Network Vulnerability Manager (NVM)**
-- Async port scanning + CPE mapping
-- NVD API CVE correlation
-- Auto-generated vulnerability intelligence
+Automated vulnerability discovery and correlation pipeline
+- **Tech Stack:** Python, Async Scanning, NVD API
+- **Capabilities:**
+  - Asynchronous port scanning with service enumeration
+  - CPE mapping and CVE correlation via NVD
+  - Generates structured, actionable vulnerability insights
+  - Integrates with existing security workflows
 
 ### 🔐 **Linux Policy Auditor**
-- CIS-aligned hardening checks
-- PAM & authentication policy audits
-- No external dependencies
+Comprehensive CIS-aligned system hardening audit tool
+- **Tech Stack:** Bash, Python, PAM, System Policies
+- **Features:**
+  - CIS Benchmark compliance checks
+  - Authentication mechanism auditing (PAM, kernel policies)
+  - Lightweight, zero external dependencies
+  - Detailed hardening recommendations
 
-### 📡 **Port-Stat — Real-Time Port Monitor**
-- Detects reverse shells, rogue services
-- Process correlation
-- JSON export for SIEM
+### 📡 **Port-Stat - Real-Time Port Monitor**
+Network anomaly detection through process-to-port mapping
+- **Tech Stack:** Python, psutil, JSON Output
+- **Detects:**
+  - Suspicious port bindings and unexpected services
+  - Potential reverse shells and rogue processes
+  - Unusual network activity patterns
+  - Direct SIEM integration via JSON output
 
 ---
 
-# 💻 **Tech Stack**
-A clean badge‑based stack — compact, visual, and relevant to your actual offensive security workflow.
+## 💻 Technical Stack
+A clean badge-based stack — compact, visual, and relevant to your offensive security workflow.
 
-## 🧠 **Programming & Scripting**
+### 🧠 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 
-## ⚙️ **Pentesting & Security Ops**
+### ⚙️ Pentesting & Security Ops
 ![Nmap](https://img.shields.io/badge/Nmap-004B6B?logo=nmap&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/Burp_Suite-orange?logo=burpsuite&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-grey)
@@ -87,19 +121,19 @@ A clean badge‑based stack — compact, visual, and relevant to your actual off
 ![Wireshark](https://img.shields.io/badge/Wireshark-1F72B7?logo=wireshark&logoColor=white)
 ![Tcpdump](https://img.shields.io/badge/Tcpdump-800000)
 
-## 🛡 **Detection & Forensics**
+### 🛡️ Detection & Forensics
 ![Suricata](https://img.shields.io/badge/Suricata-red?logo=suricata&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK_Stack-005571?logo=elasticstack&logoColor=white)
 ![Packet_Analysis](https://img.shields.io/badge/Packet_Forensics-green)
 ![Log_Analysis](https://img.shields.io/badge/Log_Analysis-grey)
 
-## ☁️ **Cloud & Infra**
+### ☁️ Cloud & Infra
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)
 ![Hardening](https://img.shields.io/badge/Linux_Hardening-blue)
 
-## 🤖 **ML / Data (IDS R&D)**
+### 🤖 ML / Data (IDS R&D)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
@@ -107,9 +141,29 @@ A clean badge‑based stack — compact, visual, and relevant to your actual off
 
 ---
 
-# 📫 **Connect**
-```bash
-> LinkedIn : linkedin.com/in/alexander-pb
-> GitHub   : github.com/Alexander-50
-> TryHackMe: tryhackme.com/p/77mrx77
-> Email    : pbalexander69@gmail.com
+## 📈 Areas of Focus & Continuous Learning
+
+- Advanced IDS/IPS architecture and optimization
+- Machine learning for cybersecurity applications
+- Container and cloud-native security
+- Threat intelligence automation
+- Security automation frameworks and tooling
+
+---
+
+## 🔗 Connect With Me
+
+```
+📧 Email     : pbalexander69@gmail.com
+🔗 LinkedIn  : linkedin.com/in/alexander-pb
+💻 GitHub    : github.com/Alexander-50
+🎯 TryHackMe : tryhackme.com/p/77mrx77
+```
+
+---
+
+## 📌 Philosophy
+
+> Security is not about perfect defense—it's about understanding the attack, automating the response, and continuously learning from both.
+
+**Let's build smarter, faster, and more resilient security systems together.**
