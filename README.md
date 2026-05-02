@@ -3,18 +3,18 @@
 
 ```
 Think like an attacker. Build like a defender. Code like an engineer.
-Breaking → Understanding → Automating
+Break → Analyze → Automate
 ```
 
 ---
 
 ## 🎯 About Me
 
-I'm a security-focused engineer who analyzes systems from both attacker and defender perspectives, then builds automation and tooling to improve resilience, visibility, and efficiency. My work spans offensive security, detection engineering, security automation, and system-level analysis, with a focus on turning real-world behavior into practical security solutions.
+I approach systems from both attacker and defender perspectives, using that insight to build automation, detection logic, and security tooling that improves real-world resilience and visibility. My work spans offensive security, detection engineering, and system-level analysis, focused on turning practical attack behavior into actionable security solutions.
 
 **Specialties:**
 - 🔍 Offensive Security & Penetration Testing
-- 🛡️ Hybrid IDS/Detection Engineering (Signature + Anomaly-Based)
+- 🛡️ Hybrid IDS research  /Detection Engineering (Signature + Anomaly-Based)
 - 🤖 ML-Driven Security Detection & IoT Anomaly Detection
 - ⚙️ Python Security Automation & Toolsmith
 - ☁️ Cloud Security (AWS) & Infrastructure Hardening
