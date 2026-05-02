@@ -1,9 +1,9 @@
-# 👋 Alexander P.B.
+# 👋 Alexander P.B
 **Penetration Tester | Cybersecurity Analyst | Detection Engineer | Security Automation Specialist**
 
 ```
-Penetration Tester → Detection Systems → Automated Defense
-Break → Analyze → Automate
+Think like an attacker. Build like a defender. Code like an engineer.
+Breaking → Understanding → Automating
 ```
 
 ---
