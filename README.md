@@ -53,7 +53,7 @@ Advanced detection framework combining signature-based and anomaly-based approac
   - Real-time traffic monitoring, alerting, and log correlation
   - Optimized for IoT environments with low overhead and edge deployment
   - Validated against real-world attack scenarios (Nmap, SQLi, DoS, custom payloads)
-- **Impact:** Enables both known threat detection and zero-day attack recognition
+- **Impact:** Enables both known signature detection and anomaly-based attack recognition
 
 ### 🤖 **IoT Anomaly-Based IDS (CICIoT23 Dataset)**
 Machine learning-driven intrusion detection for IoT environments
